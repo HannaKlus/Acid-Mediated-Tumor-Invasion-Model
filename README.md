@@ -6,7 +6,7 @@ This project is based on the seminal paper **"A Reaction-Diffusion Model of Canc
 
 The simulation was built in three evolutionary stages to progressively model the complexity of tumor dynamics.
 
-##Project evolution
+## Project evolution
 ### Phase 1: Temporal Dynamics (ODE)
 I started by modeling the population growth over time using the **Logistic Growth Equation**.
 * **Goal:** Understand carrying capacity and basic growth limits.
