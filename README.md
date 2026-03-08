@@ -33,8 +33,4 @@ My goal was to demonstrate how changing two key parameters—**chemotherapy stre
 * *NumPy* (Numerical computing)
 * *Matplotlib* (Data visualization)
 
-## How to Run
-1. Clone the repository.
-2. Install dependencies:
-   ```bash
-   pip install numpy matplotlib
+
